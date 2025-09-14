@@ -1,0 +1,6 @@
+# Ignore everything in this repository
+*
+
+# But keep this .gitignore file itself so it can be committed
+!.gitignore
+!app.py
